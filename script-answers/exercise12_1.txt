@@ -1,0 +1,40 @@
+
+StatusCode        : 200
+StatusDescription : OK
+Content           :
+                    <!DOCTYPE html>
+                    <html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+                    <head>
+                      <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={privacy:{
+                    cookies_enabled:fa...
+RawContent        : HTTP/1.1 200 OK
+                    X-Drupal-Dynamic-Cache: MISS
+                    X-UA-Compatible: IE=edge
+                    Content-language: en
+                    X-Content-Type-Options: nosniff
+                    X-Frame-Options: SAMEORIGIN
+                    Permissions-Policy: interest-cohort=()
+                    X-D...
+Forms             : {}
+Headers           : {[X-Drupal-Dynamic-Cache, MISS], [X-UA-Compatible, IE=edge], [Content-language, en], [X-Content-Typ
+                    e-Options, nosniff]...}
+Images            : {}
+InputFields       : {@{innerHTML=; innerText=; outerHTML=<INPUT id=pid-145767 type=hidden value=145767 name=pid>; outer
+                    Text=; tagName=INPUT; id=pid-145767; type=hidden; value=145767; name=pid}}
+Links             : {@{innerHTML=Skip to main content ; innerText=Skip to main content ; outerHTML=<A class="visually-h
+                    idden focusable" href="#main-content">Skip to main content </A>; outerText=Skip to main content ; t
+                    agName=A; class=visually-hidden focusable; href=#main-content}, @{innerHTML=News ; innerText=News ;
+                     outerHTML=<A href="/en/news" data-menu-link-id="0bda75ab91f8bad1d33de860414b7b17" aria-current="Ne
+                    ws">News </A>; outerText=News ; tagName=A; href=/en/news; data-menu-link-id=0bda75ab91f8bad1d33de86
+                    0414b7b17; aria-current=News}, @{innerHTML=<HY-ICON size="10" icon="hy-icon-caret-right"></HY-ICON>
+                    <SPAN>News and press releases </SPAN>; innerText=News and press releases ; outerHTML=<A class=hy-de
+                    sktop-menu__panel-link href="/en/news/news-and-press-releases" target=_self><HY-ICON size="10" icon
+                    ="hy-icon-caret-right"></HY-ICON><SPAN>News and press releases </SPAN></A>; outerText=News and pres
+                    s releases ; tagName=A; class=hy-desktop-menu__panel-link; href=/en/news/news-and-press-releases; t
+                    arget=_self}, @{innerHTML=<HY-ICON size="10" icon="hy-icon-caret-right"></HY-ICON><SPAN>War in Ukra
+                    ine </SPAN>; innerText=War in Ukraine ; outerHTML=<A class=hy-desktop-menu__panel-link href="/en/ne
+                    ws/war-ukraine" target=_self><HY-ICON size="10" icon="hy-icon-caret-right"></HY-ICON><SPAN>War in U
+                    kraine </SPAN></A>; outerText=War in Ukraine ; tagName=A; class=hy-desktop-menu__panel-link; href=/
+                    en/news/war-ukraine; target=_self}...}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 721380
